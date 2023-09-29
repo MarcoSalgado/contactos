@@ -1,0 +1,25 @@
+{
+    "contacts": [
+      {
+        "id": 1,
+        "first_name": "Marco",
+        "phoneNumber":"111111111",
+        "email": "marco@email.com",
+        "pictureURL": "https://e1.pxfuel.com/desktop-wallpaper/850/951/desktop-wallpaper-11-giga-chad-ideas-giga-chad-thumbnail.jpg"
+      },
+      {
+        "id": 2,
+        "first_name": "Vasco",
+        "phoneNumber":"222222222",
+        "email": "vasco@email.com",
+        "pictureURL": "https://i.pinimg.com/1200x/ed/32/8d/ed328d8d35678dc941cb57bbc6e816ca.jpg"
+      },
+      {
+        "id": 3,
+        "first_name": "Bruno",
+        "phoneNumber":"333333333",
+        "email": "bruno@email.com",
+        "pictureURL": "https://media.istockphoto.com/id/531429601/photo/happy-russian-man-offering-a-vodka-cheers.jpg?s=612x612&w=0&k=20&c=-RheZP24_TfiI-hCZaFoAQ7j39iHitS7ugaUoSy4XAI="
+      }
+    ]
+  }
